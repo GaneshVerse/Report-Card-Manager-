@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "subjects": {
+            "Math": 88,
+            "Science": 92,
+            "English": 85
+        }
+    },
+    {
+        "id": 2,
+        "name": "Brian Smith",
+        "subjects": {
+            "Math": 70,
+            "History": 65,
+            "English": 72
+        }
+    },
+    {
+        "id": 3,
+        "name": "Catherine Lee",
+        "subjects": {
+            "Math": 95,
+            "Science": 98,
+            "Computer": 100,
+            "English": 90
+        }
+    },
+    {
+        "id": 4,
+        "name": "ganesh",
+        "subjects": {
+            "python": 50,
+            "html": 90
+        }
+    }
+]
